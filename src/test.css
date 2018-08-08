@@ -1,0 +1,16 @@
+div{
+    width:200px;
+    height:200px;
+    background:red;
+}
+body{
+    background: paleturquoise;
+}
+.my{
+    background:blue;
+}
+#test{
+    width:100px;
+    height:100px;
+    background: #009f95;
+}
